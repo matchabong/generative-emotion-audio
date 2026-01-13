@@ -1,4 +1,4 @@
-# generative-emotion-audio
+# Generative-emotion-audio
 # Facial Expression Sonification Prototype
 
 A real-time interactive system that maps facial landmarks and emotional data to generative audio parameters. This project explores Human-Computer Interaction (HCI) by integrating computer vision APIs with the Max/MSP audio environment.
