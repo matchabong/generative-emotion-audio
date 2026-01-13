@@ -4,7 +4,7 @@
 A real-time interactive system that maps facial landmarks and emotional data to generative audio parameters. This project explores Human-Computer Interaction (HCI) by integrating computer vision APIs with the Max/MSP audio environment.
 
 ## 🔎 Project Overview
-This prototype was designed to test the latency and creative potential of driving audio synthesis using live biometric data. It functions by capturing video input, analyzing facial expressions (Joy, Sadness, Surprise) via a Face API, and converting that JSON data into MIDI/audio control signals within Max/MSP.
+This prototype was designed to test the latency and creative potential of driving audio synthesis using live biometric data. It functions by capturing video input, analyzing facial expressions (Joy, Sadness, Anger) via a Face API, and converting that JSON data into MIDI/audio control signals within Max/MSP.
 
 **Key Concept:** Transforming visual emotional data into an auditory experience ("Sonification").
 
