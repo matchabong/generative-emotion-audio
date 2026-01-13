@@ -29,7 +29,7 @@ The system operates as a data pipeline:
 
 ## 📝 Acknowledgements & Credits
 This project focuses on **system integration** and **multimedia prototyping**.
-* Core Max/MSP patches adapted from open-source structures by [Name of Original Author/Repo if known, otherwise delete this line].
+* Core Max/MSP patches adapted from open-source structures by fdb.
 * Modifications made to customize data parsing logic and audio output parameters.
 
 ## 🔮 Future Improvements
